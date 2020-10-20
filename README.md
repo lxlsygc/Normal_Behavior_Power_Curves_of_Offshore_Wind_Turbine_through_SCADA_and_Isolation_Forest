@@ -1,0 +1,2 @@
+# Normal_Behavior_Power_Curves_of_Offshore_Wind_Turbine_through_SCADA_and_Isolation_Forest
+This repository used recorded SCADA measurements to perform normal behavior power curves for an offshore wind turbine through isolation forest
